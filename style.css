@@ -1,0 +1,10 @@
+h1{color: red;
+text-align: center;}
+h2{color: rgb(245, 0, 192);}
+h3{color: green;
+}
+body{background-color: black;
+}
+h3{border-color: red;
+    border-style: solid;
+    border-width: 3px;}
